@@ -1,1 +1,1 @@
-# Calculator_project
+The Calculator Project is a simple yet functional web application designed to perform basic arithmetic operations such as addition, subtraction, multiplication, and division. It is built using core web development technologies: HTML, CSS, and JavaScript. The project demonstrates user interface design, event handling, and DOM manipulation.# Calculator_project
